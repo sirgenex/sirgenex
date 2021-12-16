@@ -1,7 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirgenex&show_icons=true&theme=dark)
+![Status](https://github-readme-stats.vercel.app/api?username=sirgenex&show_icons=true&theme=dark)
 
-- PS: The projects that I work is private, so do not count on the statistics above.
+- I’m currently learning Web Development
+- Owner & Senior Developer of LunaticMC
 
-- ☕ Java Developer
-- 🌱 I’m currently learning Web Development
-- Owner of LunaticMC
+I work with Java, JavaScript, SQL & Redis.
