@@ -60,7 +60,7 @@ Known softwares
 <p align="center">
   <img width="24" src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/discord.svg" alt="Discord">
   <br>  
-    <i>GeneX#001</i>
+    <i>GeneX#0001</i>
   <br><br>
     <a href="https://twitter.com/iamgenex" alt="Twitter"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/twitter.svg"></a>
     <a href="https://www.linkedin.com/in/fabr%C3%ADcio-souza-41638522b/" alt="Linkedin"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/linkedin.svg"></a>
