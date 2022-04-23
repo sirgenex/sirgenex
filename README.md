@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/others/header.png">
+
 ### About me
 
 - 💻 Java/JavaScript Developer
@@ -64,3 +66,5 @@ Known softwares
     <a href="https://www.linkedin.com/in/fabr%C3%ADcio-souza-41638522b/" alt="Linkedin"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/linkedin.svg"></a>
     <a href="mailto:fabricio.10psi@gmail.com" alt="Email"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/mail.svg"></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/others/footer.png">
