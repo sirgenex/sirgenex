@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/others/header.png">
+<img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/others/header.jpg">
 
 ### About me
 
