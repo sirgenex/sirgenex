@@ -8,8 +8,6 @@
 <details>
   <summary>Others details about me</summary>
   <br>
-  - I'm a radiant in VALORANT stuck into silver 😎
-  <br>
   - Music Lover 🎶
   <br>
   - Demon Slayer is the best anime ever ✨
