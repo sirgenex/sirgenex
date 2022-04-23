@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/others/header.jpg">
+<img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/others/header.jpg" alt="header">
 
 ### About me
 
@@ -56,6 +56,7 @@ Known softwares
 
 <p align="center">
   <i>Contact me</i>
+</p>
     
 <p align="center">
   <img width="24" src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/discord.svg" alt="Discord">
@@ -67,4 +68,4 @@ Known softwares
     <a href="mailto:fabricio.10psi@gmail.com" alt="Email"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/mail.svg"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/others/footer.jpg">
+<img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/others/footer.jpg" alt="footer">
