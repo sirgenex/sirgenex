@@ -67,4 +67,4 @@ Known softwares
     <a href="mailto:fabricio.10psi@gmail.com" alt="Email"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/mail.svg"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/others/footer.png">
+<img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/others/footer.jpg">
