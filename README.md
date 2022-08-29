@@ -2,10 +2,9 @@
 
 ### About me
 
-- 💻 Java/JavaScript Developer
-- ⚙ Learning Web Development
+- 💻 Full-Stack Web Developer [Node.JS / Express / JavaScript / HTML / PHP / CSS]
+- ⚙ Java Developer
 - 💬 Currently available, comissions and others contact me for any of my social platforms
-- 💡 Future Full-Stack Developer
 
 <details>
   <summary>Others details about me</summary>
