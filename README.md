@@ -2,8 +2,8 @@
 
 ### About me
 
-- 💻 Full-Stack Web Developer [Node.JS / Express / JavaScript / HTML / PHP / CSS]
-- ⚙ Java Developer
+- 💻 Full-Stack Web Developer
+- ⚙ JVM Developer
 - 💬 Currently available, comissions and others contact me for any of my social platforms
 
 <details>
