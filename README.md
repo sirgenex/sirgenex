@@ -3,16 +3,8 @@
 ### About me
 
 - 💻 Full-Stack Web Developer
-- ⚙ JVM Developer
+- ⚙ Java/Kotlin Developer
 - 💬 Currently available, comissions and others contact me for any of my social platforms
-
-<details>
-  <summary>Others details about me</summary>
-  <br>
-  - Music Lover 🎶
-  <br>
-  - Demon Slayer is the best anime ever ✨
-</details>
 
 ---
 
@@ -62,8 +54,6 @@ Known softwares
   <br>  
     <i>GeneX#0001</i>
   <br><br>
-    <a href="https://twitter.com/iamgenex" alt="Twitter"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/twitter.svg"></a>
-    <a href="https://www.linkedin.com/in/fabr%C3%ADcio-souza-41638522b/" alt="Linkedin"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/linkedin.svg"></a>
     <a href="mailto:fabricio.10psi@gmail.com" alt="Email"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/mail.svg"></a>
 </p>
 
