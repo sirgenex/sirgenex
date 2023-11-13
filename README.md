@@ -11,6 +11,7 @@
 ### Recent Projects
 
 - [MineGlobe](https://mineglobe.org) - A minecraft survival network
+- [Maritime](https://store.maritimemc.net/) - A minecraft survival network
 - [Arcanth](https://arcanth.net) - A minecraft minigames network
 - [Pokenite](https://pokenite.net) - A minecraft pixelmon server
 
