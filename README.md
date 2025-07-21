@@ -4,7 +4,7 @@
 
 - 💻 Full-Stack Web Developer
 - ⚙ Java/Kotlin Developer
-- 💬 Currently available, comissions and others contact me for any of my social platforms
+- 💬 Currently available, comissions and others contact me for any of my social platforms below
 
 ---
 
@@ -20,9 +20,8 @@
 </p>
     
 <p align="center">
-  <img width="24" src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/discord.svg" alt="Discord">
   <br>  
-    <i>GeneX#0001</i>
+    <i>Discord: <b>genex</b></i>
   <br><br>
     <a href="mailto:fabricio.10psi@gmail.com" alt="Email"><img src="https://raw.githubusercontent.com/sirgenex/sirgenex/main/contacts/mail.svg"></a>
 </p>
