@@ -10,7 +10,7 @@ Focused on building scalable systems, unique gameplay experiences, and modern we
 ## 🚀 About Me
 
 - 💻 Full-Stack Web Developer & Minecraft Developer  
-- ⚡ 6+ years of experience creating custom gameplay, mods & scalable systems  
+- ⚡ 7+ years of experience creating custom gameplay, mods & scalable systems  
 - 🎮 Contributed to projects reaching **100M+ views** through collaborations with major creators  
 - 🌍 Worked with international networks, YouTubers & large communities  
 - 🔧 Specialized in **Minecraft APIs** (Spigot, Paper, Folia, Forge, Fabric) & full-stack web applications  
@@ -19,7 +19,7 @@ Focused on building scalable systems, unique gameplay experiences, and modern we
 
 ## 🎮 Highlights in Game Development
 
-- 200+ custom systems for Minecraft servers  
+- 300+ custom systems for Minecraft servers  
 - Complete gamemodes (Survival, Prison, Factions, Minigames)  
 - Advanced mechanics: custom movement, vehicles, modded integrations, async backends  
 - Tools for performance, player tracking & cross-server scalability  
